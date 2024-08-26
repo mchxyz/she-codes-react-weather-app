@@ -22,7 +22,14 @@ export default function App() {
         rel='noreferrer'
         > 
         open-sourced on GitHub
-        </a>
+        </a>{" "}
+        and <a
+        href='https://she-codes-react-weather-app.netlify.app/' 
+        target='_blank' 
+        rel='noreferrer'
+        >
+        hosted on Netlify
+          </a> 
     </footer>
     </div>
   </div>
