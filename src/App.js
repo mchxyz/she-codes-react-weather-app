@@ -12,21 +12,21 @@ export default function App() {
         This project was coded by <a 
         href='https://github.com/mchxyz' 
         target='_blank' 
-        rel='noreferrer'
+        rel='noopener noreferrer'
         >MA
         </a>{" "}
         and is{" "}
         <a 
         href='https://github.com/mchxyz/she-codes-react-weather-app' 
         target='_blank'
-        rel='noreferrer'
+        rel='noopener noreferrer'
         > 
         open-sourced on GitHub
         </a>{" "}
         and <a
         href='https://she-codes-react-weather-app.netlify.app/' 
         target='_blank' 
-        rel='noreferrer'
+        rel='noopener noreferrer'
         >
         hosted on Netlify
           </a> 

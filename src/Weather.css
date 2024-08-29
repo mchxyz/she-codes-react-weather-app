@@ -57,6 +57,10 @@
     top: -34px;
 }
 
+a {
+  text-decoration: none;
+}
+
 footer {
   text-align: center;
 }
